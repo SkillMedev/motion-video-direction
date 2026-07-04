@@ -9,7 +9,7 @@ The taste layer that pairs with the Remotion Video Production mechanics pack. Wh
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/motion-video-direction](https://skillme.dev/pack/motion-video-direction) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/motion-video-direction`
+- **With the skills CLI:** `npx skills add SkillMedev/motion-video-direction`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
