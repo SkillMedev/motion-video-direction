@@ -1,16 +1,17 @@
 # Motion & Video Direction
 
-**The craft layer for software video - storyboarding, motion principles, type, color, sound, and social cutdowns that make a demo worth watching.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**The craft layer for software video - storyboarding, motion principles, type, color, sound, and social cutdowns that make a demo worth watching.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-motion-video-direction).
 
 The taste layer that pairs with the Remotion Video Production mechanics pack. Where Remotion handles compose and render, this pack decides what is worth rendering: storyboard the beat sheet (hook, problem, reveal, proof, CTA), apply real motion-design principles (easing, timing, anticipation→action→follow-through), set type in motion, choose video-safe color and light, direct a software UI on screen, sync sound and music, and reframe for every social platform. Seven craft skills that turn a flat screen recording into a video people actually finish.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/motion-video-direction](https://skillme.dev/pack/motion-video-direction) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/motion-video-direction?utm_source=github&utm_medium=readme&utm_campaign=pack-motion-video-direction) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add motion-design-principles video-storyboard kinetic-typography motion-color-and-light product-demo-director sound-and-music-sync social-video-formatter --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/motion-video-direction`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ The taste layer that pairs with the Remotion Video Production mechanics pack. Wh
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-motion-video-direction).
